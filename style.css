@@ -1,0 +1,79 @@
+/* Colors and fonts */ 
+body {
+	background: rgb(300, 300, 300);
+	color: #4C5F6B;
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+	font-weight: lighter;
+}
+
+h1 {
+	color: #77ACA2;
+	font-family: SignPainter;
+	font-size: 60px;
+}
+
+h2 {
+	color: #5C6D70;
+	font-family: 'Roboto', sans-serif;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: #77ACA2;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+
+a:hover {
+	color: seagreen;
+}
+
+#img-size {
+	width: 200px;
+	border-radius: 35%;
+}
+
+
+
+div{
+element.style 
+    background: whitesmoke;
+    padding: 40px;
+    margin: 50px auto;
+    box-shadow: 0px 10px 30px rgb(30 30 30);
+    border-radius: 20px;
+    width: 800px;
+    text-align: center;
+}
+
+li{
+	list-style: none;
+	display: inline;
+	padding: 16px;
+}
+
+i{
+	padding-left: 0px;
+	font-size: 30px;
+  margin-
+}
+
+@media (max-width:  960px) {
+	div{
+		width: 700px;
+	}
+}
+@media (max-width:  720px) {
+	div{
+		width: 500px;
+	}
+}
+@media (max-width:  540px) {
+	div{
+		width: 300px;
+	}
+}
